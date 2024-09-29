@@ -1,25 +1,24 @@
-## Hello there, I am Vikas Kheni 👋
 # Hello, I'm Vikas Kheni 👋
 
 😄 My pronouns are: He/His/Him
 
-🔭 I’m currently pursuing a Master’s in Computer Science at USC and building my expertise in data engineering.
+🔭 I’m currently pursuing a Master’s of Science in Computer Science at USC, graduating in may 2026.
 
-👯 I'm always open to freelance gigs and contract-based opportunities.
+👯 I’m always open to research and project-based opportunities. Specifically, I am looking for summer 2025 internships related to machine learning, software engineering, AI, and NLP.
 
-💬 I'm looking to collaborate and create innovative content to share with the community.
+💬 I’m looking to collaborate on and create innovative projects that integrate machine learning, AI, quantum computing, and NLP with software development.
 
 📫 Here’s how you can reach me: 
 - [Twitter](https://twitter.com/vikaskheni) | 
-- [LinkedIn](https://www.linkedin.com/in/vikaskheni) | 
+- [LinkedIn](https://www.linkedin.com/in/vikas-kheni-aa9a0520a) | 
 - [GitHub](https://github.com/vikaskheni)
 
 ---
 
 ## 🧑🏻‍🏫 Learning Goals
-- Exploring the Modern Data Stack (dbt, Airbyte, Databricks)
-- Diving into Azure Cloud (already experienced with AWS & GCP)
+- Exploring the Modern Data Stack (Airbyte, Databricks)
 - Enhancing skills in architecting better data systems
+- Advancing my proficiency in software engineering, focusing on Node.js, React.js, React Native, and Apache Spark
 
 ---
 
@@ -28,12 +27,46 @@
 *Master’s of Science in Computer Science*  
 August 2024 – May 2026
 
+**Relevant Coursework:**
+- CSCI 570: Analysis of Algorithm
+- CSCI 585: Database Systems
+
 **Dharmsinh Desai University**, Gujarat, India  
-*Bachelor of Technology in Information Technology (Gold Medalist)* | GPA: 4/4  
+*Bachelor of Technology in Information Technology (Gold Medalist)* | GPA: 9.58 / 10 (Rank 1)  
 July 2020 – May 2024  
 
-*Relevant Coursework:* Data Structures & Algorithms, Data Analysis & Information Extraction, Statistics, Probability, Fine-Tuning
+**Activities and Societies:**
+- Student Representative of the Anti-Ragging Committee (2022 - 2023)
+- Class Representative of the Department (2021 - 2024)
 
+**Relevant Coursework:**
+- Artificial Intelligence
+- Distributed Computing
+- Computer Networks
+- E-Commerce and E-Security
+- Operating Systems
+- Object-Oriented Programming
+- Data and File Structures
+- Algorithms
+- Data Mining and Data Warehousing
+- Database Management Systems
+- Software Engineering
+- Web Technologies (.NET)
+- Advanced Technologies (J2EE, Spring, Hadoop, Hibernate, JS Frameworks)
+- Design Patterns
+- System Design and Practice
+- Computer Architecture
+- Computer Peripherals and Interfacing
+- Theory of Computation
+- Microprocessors
+- Communication Systems
+- Digital Electronics
+- Assembly Language Programming
+- Compiler Design
+- Algebra
+- Calculus
+- Graph Theory
+- Probability
 ---
 
 ## 🛠️ Technical Skills
@@ -45,51 +78,30 @@ July 2020 – May 2024
 
 ---
 
-## 💼 Work Experience
-**Realloc Infotech Private Limited**, Surat, India  
-*Data Scientist Intern*  
-April 2024 – July 2024  
-- Conducted financial analysis on a curated dataset of 1895+ National Stock Exchange (NSE) records.
-- Utilized Python libraries for data extraction and processing, achieving a comprehensive daily dataset of stock trends.
+## 📚 Research Publications
+- [Stock Insight Hub: Multi-Source Data Collection, Mining, Pre-processing, and Its Comprehensive Analysis](https://doi.org/10.13140/RG.2.2.13239.94889)  
+  *Volume 11, Issue 4, JETIR 2024. Ahmedabad, India.*
 
-**Indian Space Research Organization (ISRO)**, Space Application Center, India  
-*Research Scientist Intern*  
-December 2023 – March 2024  
-- Led the design of India’s first Quantum Key Distribution Network Architecture (QKDN) and managed QKD hardware.
+- [A Comprehensive Literature Review on the Evolution of Quantum Key Distribution Network Architectures](https://doi.org/10.13140/RG.2.2.10035.64809)  
+  *Indian Space Research Organization’s Journal 2024. Ahmedabad, India.*
 
-**Blackcoffer**, Delhi, India  
-*NLP Researcher/Machine Learning Intern*  
-May 2023 – June 2023  
-- Developed an Article Analyzer that categorized and summarized textual content from over 10,000 articles.
+- [Qu-Internet: The Implementation of Quantum Key Distribution Network Architecture](https://doi.org/10.13140/RG.2.2.16746.53446)  
+  *Indian Space Research Organization’s Journal 2024. Ahmedabad, India.*
 
 ---
-
-## 🚀 Projects
-- **Credit Card Risk Evaluation**: Implemented predictive models using Logistic Regression, Decision Tree, and achieved 92% accuracy with SVM.
-- **Track Alumni**: Built a web application for automated collection and analysis of alumni profiles from LinkedIn.
-- **Customer Churn Prediction**: Developed a deep learning model using TensorFlow to predict customer churn with 85% accuracy.
-
----
-
-## 📄 Research Experience & Publications
-- **Stock Insight Hub**: Multi-Source Data Collection, Mining, Pre-processing, and Its Comprehensive Analysis, DOI: [10.13140/RG.2.2.13239.94889](https://doi.org/10.13140/RG.2.2.13239.94889)
-- **Qu-Internet**: Implementation of Quantum Key Distribution Network Architecture, DOI: [10.13140/RG.2.2.16746.53446](https://doi.org/10.13140/RG.2.2.16746.53446)
-
----
-
 ## 🏆 Honors, Awards & Certifications
 - **Gold Medalist (IT)**: Awarded for academic excellence during my undergraduate studies.
-- **AWS Certified Solutions Architect – Associate**
-- **Data Engineering, Big Data, and Machine Learning on GCP**
-- **Deep Learning Specialization by Andrew Ng**
+- **Class Representative**: Served as the Class Representative of the Department for three years (2021 - 2024).
+- **Student Representative of the Anti-Ragging Committee**: Held the position for the year 2022 - 2023.
+- **All India Rank (AIR) 09**: Achieved in the NCAT (National Creativity Aptitude Test) Exam Category 3.
+
+
 
 ---
 
 ## 📖 Recent Blogs
-- [SQL Functions I Use as a Data Engineer](https://medium.com/)
-- [7 End-To-End Data Engineering Projects for FREE](https://medium.com/)
-- [My Journey into Data Engineering](https://medium.com/)
+- [The Story of My Four Years at Dharmsinh Desai University](https://medium.com/@vikaskheni30/the-story-of-my-four-years-at-dharmsinh-desai-university-6749d4edb7b7)
 
 ---
 
-If you want to discuss something or have any questions, feel free to ping me on Twitter!
+If you want to discuss something or have any questions, feel free to ping me on my [Email Me](mailto:vkheni@usc.edu)!
