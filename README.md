@@ -9,9 +9,7 @@
 💬 I’m looking to collaborate on and create innovative projects that integrate machine learning, AI, quantum computing, and NLP with software development.
 
 📫 Here’s how you can reach me: 
-- [Twitter](https://twitter.com/vikaskheni) | 
-- [LinkedIn](https://www.linkedin.com/in/vikas-kheni-aa9a0520a) | 
-- [GitHub](https://github.com/vikaskheni)
+- [Twitter](https://twitter.com/vikaskheni) | [LinkedIn](https://www.linkedin.com/in/vikas-kheni-aa9a0520a) | [GitHub](https://github.com/vikaskheni)
 
 ---
 
@@ -38,36 +36,9 @@ July 2020 – May 2024
 **Activities and Societies:**
 - Student Representative of the Anti-Ragging Committee (2022 - 2023)
 - Class Representative of the Department (2021 - 2024)
+  
+**Relevant Coursework:** Artificial Intelligence, Distributed Computing, Computer Networks, E-Commerce and E-Security, Operating Systems, Object-Oriented Programming, Data and File Structures, Algorithms, Data Mining and Data Warehousing, Database Management Systems, Software Engineering, Web Technologies (.NET), Advanced Technologies (J2EE, Spring, Hadoop, Hibernate, JS Frameworks), Design Patterns, System Design and Practice, Computer Architecture, Computer Peripherals and Interfacing, Theory of Computation.
 
-**Relevant Coursework:**
-- Artificial Intelligence
-- Distributed Computing
-- Computer Networks
-- E-Commerce and E-Security
-- Operating Systems
-- Object-Oriented Programming
-- Data and File Structures
-- Algorithms
-- Data Mining and Data Warehousing
-- Database Management Systems
-- Software Engineering
-- Web Technologies (.NET)
-- Advanced Technologies (J2EE, Spring, Hadoop, Hibernate, JS Frameworks)
-- Design Patterns
-- System Design and Practice
-- Computer Architecture
-- Computer Peripherals and Interfacing
-- Theory of Computation
-- Microprocessors
-- Communication Systems
-- Digital Electronics
-- Assembly Language Programming
-- Compiler Design
-- Algebra
-- Calculus
-- Graph Theory
-- Probability
----
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, R, Scala, MATLAB, SQL, C, C#, C++, Java, JavaScript, Prolog, LaTeX
