@@ -34,8 +34,8 @@ August 2024 – May 2026
 July 2020 – May 2024  
 
 **Activities and Societies:**
-- Student Representative of the Anti-Ragging Committee (2022 - 2023)
-- Class Representative of the Department (2021 - 2024)
+- President of the Anti-Ragging Committee of the Dharamsinh Desai University (2022 - 2023)
+- Class Representative of the Department of Information Technology (2021 - 2024)
   
 **Relevant Coursework:** Artificial Intelligence, Distributed Computing, Computer Networks, E-Commerce and E-Security, Operating Systems, Object-Oriented Programming, Data and File Structures, Algorithms, Data Mining and Data Warehousing, Database Management Systems, Software Engineering, Web Technologies (.NET), Advanced Technologies (J2EE, Spring, Hadoop, Hibernate, JS Frameworks), Design Patterns, System Design and Practice, Computer Architecture, Computer Peripherals and Interfacing, Theory of Computation.
 
@@ -65,14 +65,10 @@ July 2020 – May 2024
 - **Class Representative**: Served as the Class Representative of the Department for three years (2021 - 2024).
 - **Student Representative of the Anti-Ragging Committee**: Held the position for the year 2022 - 2023.
 - **All India Rank (AIR) 09**: Achieved in the NCAT (National Creativity Aptitude Test) Exam Category 3.
-
-
-
 ---
 
 ## 📖 Recent Blogs
 - [The Story of My Four Years at Dharmsinh Desai University](https://medium.com/@vikaskheni30/the-story-of-my-four-years-at-dharmsinh-desai-university-6749d4edb7b7)
-
 ---
 
 If you want to discuss something or have any questions, feel free to ping me on my [Email Me](mailto:vkheni@usc.edu)!
