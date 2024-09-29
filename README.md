@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there, I am Vikas Kheni 👋
+Thanks for stopping by. Here's a little bit about myself...
 <!--
 **vikaskheni/vikaskheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
