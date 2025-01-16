@@ -22,12 +22,14 @@
 
 ## 📚 Education
 **University of Southern California**, Los Angeles, CA  
-*Master’s of Science in Computer Science*  
+*Master’s of Science in Computer Science*  | GPA: 3.85/4.00
 August 2024 – May 2026
 
 **Relevant Coursework:**
 - CSCI 570: Analysis of Algorithm
 - CSCI 585: Database Systems
+- CSCI 571: Web Technologies
+- DSCI 552: Data Science for Machine Learning
 
 **Dharmsinh Desai University**, Gujarat, India  
 *Bachelor of Technology in Information Technology (Gold Medalist)* | GPA: 9.58 / 10 (Rank 1)  
